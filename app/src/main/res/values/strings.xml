@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مساعد طبي</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="home_title">الصفحة الرئيسية</string>
+    <string name="consultation">استشارة طبية</string>
+    <string name="appointment">حجز موعد</string>
+    <string name="medical_records">السجلات الطبية</string>
+    <string name="prescriptions">الوصفات الطبية</string>
+</resources>

@@ -1,0 +1,39 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# Android Studio
+.idea/
+.project
+.classpath
+.c9/
+*.class
+*.log
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+*.dex
+*.so
+*.jar
+*.aar
+
+# Keystore files
+*.jks
+*.keystore
+
+# Android Profiler
+.android/profiler-data
+
+DS_Store
+proguard_annotations.txt
+proguard_dict.txt
+.cxx/
